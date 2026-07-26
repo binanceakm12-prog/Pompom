@@ -1,12 +1,3 @@
-cat > /root/content-bot/content_bot.py << 'EOF'
-#!/usr/bin/env python3
-# -*- coding: utf-8 -*-
-
-"""
-18+ MULTI‑PRODUCT BOT – COLOURED START + VIDEO/PHOTO/LINK DEMO
-Author: Bread (co‑founder of Sonion)
-"""
-
 import os
 import re
 import asyncio

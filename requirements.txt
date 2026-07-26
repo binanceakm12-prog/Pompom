@@ -1,0 +1,4 @@
+cat > /root/content-bot/requirements.txt << 'EOF'
+telethon>=1.34.0
+requests>=2.31.0
+EOF
